@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Storage\Work\cit195\assignment10\workingWithTasks\workingWithTasks\bin\Debug\net6.0\workingWithTasks.exe
+C:\Users\user\Desktop\Storage\Work\cit195\assignment10\workingWithTasks\workingWithTasks\bin\Debug\net6.0\workingWithTasks.deps.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment10\workingWithTasks\workingWithTasks\bin\Debug\net6.0\workingWithTasks.runtimeconfig.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment10\workingWithTasks\workingWithTasks\bin\Debug\net6.0\workingWithTasks.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment10\workingWithTasks\workingWithTasks\bin\Debug\net6.0\workingWithTasks.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment10\workingWithTasks\workingWithTasks\obj\Debug\net6.0\workingWithTasks.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment10\workingWithTasks\workingWithTasks\obj\Debug\net6.0\workingWithTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Storage\Work\cit195\assignment10\workingWithTasks\workingWithTasks\obj\Debug\net6.0\workingWithTasks.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment10\workingWithTasks\workingWithTasks\obj\Debug\net6.0\workingWithTasks.AssemblyInfo.cs
+C:\Users\user\Desktop\Storage\Work\cit195\assignment10\workingWithTasks\workingWithTasks\obj\Debug\net6.0\workingWithTasks.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment10\workingWithTasks\workingWithTasks\obj\Debug\net6.0\workingWithTasks.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment10\workingWithTasks\workingWithTasks\obj\Debug\net6.0\refint\workingWithTasks.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment10\workingWithTasks\workingWithTasks\obj\Debug\net6.0\workingWithTasks.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment10\workingWithTasks\workingWithTasks\obj\Debug\net6.0\workingWithTasks.genruntimeconfig.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment10\workingWithTasks\workingWithTasks\obj\Debug\net6.0\ref\workingWithTasks.dll
